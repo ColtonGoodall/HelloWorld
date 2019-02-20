@@ -4,3 +4,28 @@
 git add -A   
 ```
 Adds all changes to the stage.
+
+```
+git commit -m
+```
+Commits the changes in the staging area.
+
+```
+git push
+```
+Syncronizes changes with github.
+
+```
+git status
+```
+Shows current status.
+
+```
+git checkout -b branchname
+```
+Creates new branch with branchname
+
+```
+git checkout branchname
+```
+Changes branch to branchname
