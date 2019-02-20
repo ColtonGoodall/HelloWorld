@@ -1,7 +1,6 @@
-# HelloWorld
-Test repository
+#Git Commands
 
-
-Hello this is just a test file.
-
-le xdxddd
+```
+git add -A   
+```
+Adds all changes to the stage.
