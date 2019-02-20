@@ -1,7 +1,31 @@
-# HelloWorld
-Test repository
+#Git Commands
 
+```
+git add -A   
+```
+Adds all changes to the stage.
 
-Hello this is just a test file.
+```
+git commit -m
+```
+Commits the changes in the staging area.
 
-le xdxddd
+```
+git push
+```
+Syncronizes changes with github.
+
+```
+git status
+```
+Shows current status.
+
+```
+git checkout -b branchname
+```
+Creates new branch with branchname
+
+```
+git checkout branchname
+```
+Changes branch to branchname
