@@ -29,3 +29,8 @@ Creates new branch with branchname
 git checkout branchname
 ```
 Changes branch to branchname
+
+```
+git clone repositoryName
+```
+Creates a folder with a clone of the repository you wish to edit.
