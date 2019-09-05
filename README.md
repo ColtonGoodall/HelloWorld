@@ -6,7 +6,7 @@ git add -A
 Adds all changes to the stage.
 
 ```
-git commit -m
+git commit -m "Message"
 ```
 Commits the changes in the staging area.
 
